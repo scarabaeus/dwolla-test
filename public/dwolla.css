@@ -1,0 +1,78 @@
+/* .fake-field {
+  width: 100%;
+} */
+
+/* #cardContainer .fake-field input {
+  height: 50px;
+} */
+
+/* #cardContainer div .field-wrapper {
+  width: 100%;
+} */
+
+/* #cardContainer[style] {
+  padding-bottom: 32px;
+  display: block !important;
+} */
+
+/* #cardContainer iframe {
+  display: flex;
+  flex: 1;
+  height: 48px;
+} */
+/* #card-name-input {
+  font-size: 12px;
+  padding: 0 14px 0 14px;
+  box-sizing: border-box;
+  width: 100%;
+} */
+
+/* #card-name-input,
+.field-wrapper {
+  background-color: #f0f1f4;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  border: 1px solid rgb(120, 133, 152);
+  border-radius: 2px;
+} */
+
+/* #card-name-input::placeholder {
+  font-size: 12px;
+
+  color: gray;
+  font-weight: 400;
+} */
+/* .input-error {
+  min-height: 24px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #be4055;
+}
+
+.hasError {
+  border-color: #be4055;
+}
+#card-name-input:hover,
+.field-wrapper:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+#cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.optional-label {
+  color: grey;
+  font-size: 0.875rem;
+}
+
+#card-name-input::before {
+  content: 'CARD NAME INPUT';
+  display: block;
+} */
